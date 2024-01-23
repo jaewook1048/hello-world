@@ -1,13 +1,13 @@
 ## 1. github 토큰 생성
   - 깃헙은 토큰이란 dafault 인증 방식 사용 ex) 터미널이나 여러 프로그램에서 패스워드 대신 사용
-    토큰은 권한을 부여 후 생성
-    토큰 생성 이후 권한 변경 가능
+ - 토큰은 권한을 부여 후 생성
+ - 토큰 생성 이후 권한 변경 가능
     필수 토큰 설정
-        repo
-        workflow
-        gist
-        user
-        delete_repo
+        (repo,
+        workflow,
+        gist,
+        user,
+        delete_repo)
         
 ## 2. git 다운로드 및 설치
 - git 이란 형상관리 시스템으로 프로그램 관련 파일들을 저장하고 공유한다.
